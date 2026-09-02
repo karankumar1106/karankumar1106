@@ -1,28 +1,46 @@
-# hey, i'm karan
+<div align="center">
 
-i'm a computer science undergrad, full-stack developer, and open-source contributor
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=70&lines=hey%2C+i'm+karan;full-stack+developer;open-source+contributor" alt="Typing SVG" />
+  </a>
 
+  <p align="center">
+    <code>CS Undergrad</code> &nbsp;|&nbsp; 
+    <code>Full-Stack Dev</code> &nbsp;|&nbsp; 
+    <code>Open-Source Contributor</code>
+  </p>
+
+</div>
 
 ---
 
-### 🌐 connect with me
+### Socials:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karankumar1106)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kr.krrn)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/cricaddic)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karankumarshk7@gmail.com)
+<a href="https://instagram.com/kr.krrn">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=square&logo=instagram&logoColor=white" height="24" />
+</a>
+<a href="mailto:karankumarshk7@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=square&logo=gmail&logoColor=white" height="24" />
+</a>
 
 ---
 
-### 🧰 tech stack
+### Tech Stack
 
-here's some of the tech i've picked up along the journey:
+- **languages:** C++ | Python | JavaScript | TypeScript | SQL
+- **frontend:** React | Tailwind CSS | Bootstrap | Redux | React Query
+- **backend:** Node.js | Express.js | FastAPI | REST APIs | JWT
+- **database:** MySQL | MongoDB
+- **tools & devops:** Git | GitHub | GitHub Actions | Docker | Postman
+- **core:** Data Structures & Algorithms | System Design (learning) | Open Source
 
-- 💻 **languages:** C++ | Python | JavaScript | TypeScript | SQL
-- 🎨 **frontend:** React | Tailwind CSS | Bootstrap | Redux | React Query
-- ⚙️ **backend:** Node.js | Express.js | FastAPI | REST APIs | JWT
-- 🗄️ **database:** MySQL | MongoDB
-- 🛠️ **tools & devops:** Git | GitHub | GitHub Actions | Docker | Postman
-- 🧠 **core:** Data Structures & Algorithms | System Design (learning) | Open Source
+---
 
-⚡ currently learning system design—aiming to load balance my life with zero single points of failure.
+### Current Status
+
+```yaml
+status:
+  currently_learning: "System Design"
+  active_focus: "Contributing to Open Source"
+  objective: "Load balance life with zero single points of failure."
