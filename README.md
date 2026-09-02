@@ -1,8 +1,7 @@
 # hey, i'm karan
 
-i'm a computer science undergrad, full-stack developer, and open-source contributor who loves building cool stuff with code. always down to learn, build, break things, and fix 'em better.
+i'm a computer science undergrad, full-stack developer, and open-source contributor
 
-💭 curious mind | 🧰 full stack explorer | 🌐 open source contributor
 
 ---
 
