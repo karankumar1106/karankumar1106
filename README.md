@@ -1,10 +1,9 @@
 <div align="center">
 
   <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=70&lines=hey%2C+i'm+karan alt="Typing SVG" />
-  </a>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=70&lines=hey%2C+I'm+Karan" alt="Typing SVG" />
+</a>
   <p align="center">
     <code>CS Undergrad</code> &nbsp;|&nbsp; 
     <code>Full-Stack Dev</code> &nbsp;|&nbsp; 
